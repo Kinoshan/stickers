@@ -195,7 +195,7 @@
       "identifier": "2",
       "name": "Together While Apart",
       "publisher": "World Health Organization",
-      "tray_image_file": "01.png",
+      "tray_image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/trayimage.png",
       "image_data_version": "1",
       "avoid_cache": false,
       "publisher_email": "",
@@ -242,134 +242,6 @@
             "📱",
             "👯",
             "👋"
-          ]
-        },
-        {
-          "image_file": "06_StayConnected.webp",
-          "emojis": [
-            "📱",
-            "🙋‍♀",
-            "🙋‍♂"
-          ]
-        },
-        {
-          "image_file": "07_OK.webp",
-          "emojis": [
-            "👍",
-            "👌",
-            "🙂"
-          ]
-        },
-        {
-          "image_file": "08_AreYouOK.webp",
-          "emojis": [
-            "👋",
-            "❓",
-            "📱"
-          ]
-        },
-        {
-          "image_file": "09_StayingHomeMug.webp",
-          "emojis": [
-            "☕",
-            "🍵",
-            "🏠"
-          ]
-        },
-        {
-          "image_file": "10_WorkingFromBed.webp",
-          "emojis": [
-            "👩‍💻",
-            "👨‍💻",
-            "🛏"
-          ]
-        },
-        {
-          "image_file": "11_StayCalm.webp",
-          "emojis": [
-            "🧘♀",
-            "🧘♂",
-            "🤙"
-          ]
-        },
-        {
-          "image_file": "12_Gymnastics.webp",
-          "emojis": [
-            "🤸",
-            "🐩",
-            "💪"
-          ]
-        },
-        {
-          "image_file": "13_DoubleChecking.webp",
-          "emojis": [
-            "📰",
-            "🔎",
-            "🔍"
-          ]
-        },
-        {
-          "image_file": "14_CatOnTheLaptop.webp",
-          "emojis": [
-            "🐈",
-            "🐱",
-            "💻"
-          ]
-        },
-        {
-          "image_file": "15_WorkingFromHomeF.webp",
-          "emojis": [
-            "👩‍💻",
-            "🏠",
-            "💻"
-          ]
-        },
-        {
-          "image_file": "16_WorkingFromHomeM.webp",
-          "emojis": [
-            "👨‍💻",
-            "🏠",
-            "💻"
-          ]
-        },
-        {
-          "image_file": "17_WashingHands.webp",
-          "emojis": [
-            "✋",
-            "💦",
-            "🧼"
-          ]
-        },
-        {
-          "image_file": "18_DontTouchYourFace.webp",
-          "emojis": [
-            "😷",
-            "🤒",
-            "🤧"
-          ]
-        },
-        {
-          "image_file": "19_SocialDistancing.webp",
-          "emojis": [
-            "😷",
-            "🤒",
-            "🏠"
-          ]
-        },
-        {
-          "image_file": "20_SuperheroNurse.webp",
-          "emojis": [
-            "👩‍⚕",
-            "👨‍⚕️",
-            "🩺"
-          ]
-        },
-        {
-          "image_file": "21_YouAreMyHero.webp",
-          "emojis": [
-            "🙏",
-            "🦸‍♀️",
-            "🦸"
           ]
         }
       ]
